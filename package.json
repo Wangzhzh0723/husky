@@ -45,9 +45,6 @@
       "commit-msg": "commitlint -e $HUSKY_GIT_PARAMS"
     }
   },
-  "commitizen": {
-    "path": "cz-conventional-changelog"
-  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
