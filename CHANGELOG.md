@@ -10,6 +10,7 @@
 
 * 更新CHANGELOG ([8a45239](https://github.com/Wangzhzh0723/husky/commit/8a4523961569a4062aac451b4609dac99e1cefc6))
 * 测试changelog ([166efdf](https://github.com/Wangzhzh0723/husky/commit/166efdf82ed8f7547c6956943499f8d7e8ccc8a6))
+* 测试commitlint.config.js ([c00cfd1](https://github.com/Wangzhzh0723/husky/commit/c00cfd1189422a7e3adf5356598bb69081229b45))
 
 
 
